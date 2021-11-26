@@ -24,16 +24,13 @@ PermitRootLogin yes
 sudo service ssh --full-restart
 ```
 
-配置 IPsec/L2TP VPN 客户端
-
+## 配置 IPsec/L2TP VPN 客户端
 https://github.com/Microshaoft/setup-ipsec-vpn/blob/master/docs/clients-zh.md
 
-Troubleshooting Client VPN
-
+## Troubleshooting Client VPN
 https://documentation.meraki.com/MX/Client_VPN/Guided_Client_VPN_Troubleshooting
 
-如何创建管理员权限的CMD命令提示符窗口
-
+## 如何创建管理员权限的CMD命令提示符窗口
 https://www.cnblogs.com/xxcanghai/p/4610054.html
 
 

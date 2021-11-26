@@ -1,5 +1,7 @@
 # Microshaoft
 
+## 允许 root ssh，以便 WINSCP 远程修改文件
+
 ```bash
 sudo nano /etc/ssh/sshd_config
 ```
@@ -18,7 +20,9 @@ PermitRootLogin yes
 # Port 22
 ```
 
-
+```bash
+sudo service ssh --full-restart
+```
 
 
 
